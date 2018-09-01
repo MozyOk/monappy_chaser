@@ -2,7 +2,7 @@
 monappy monacoin盗難事件で  
 犯人のアドレスの可能性のある  
 MMQ618AoG6za5fErcbLTqn7gSBhBGVt16rに関連した送信元一覧と送信元履歴のCSVファイル。  
-残高履歴に関しては、正確でない可能性あり。  
+残高履歴に関しては、正確でない可能性高し。  
 
 Thanks help Guri!!  
 https://twitter.com/GuriTech
